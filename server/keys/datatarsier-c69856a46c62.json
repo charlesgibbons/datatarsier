@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "datatarsier",
+  "private_key_id": "c69856a46c62917b89ef306b7c91f5d08237631f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKD8hkywIApZOG\nlSE5Anycu6/HzLoSMbIEC3k5/eKbQa52lid8N83cohtMNoqHtN+M+9A1Eu4vDvE2\nKl6CRNhQc5E7Vzhs4qIkunZAjOiQz3Irnp8nqo4MycG/8FJFApDOd5fkTvJKV6SP\npPO7FjeuJERCWfH6ILQyMV3amLdMmIXApkr5AUnIAKb23Qvj37ZlLmmVSA9pqsMQ\nMuMiozLEC5l1MP6m26GaqmNQdyB4vTZ5p+ldUNgSMjMUAEZfSFj1O7wILbMT+7rb\nmxBnDtACl+8qwNETENnxVbzQy8HVrtOz0qYqsDwsA2vcGacF1ruIBaNxQm2DQXMO\nWlcOO+vvAgMBAAECggEAA7nbx6QIsutat5IbbTozAw7g9G29hqVc838kqqGYYqWI\n6o3lR4Cd7rIcj8C3uD3pG2fvVHM3ai272/RXDs7nMECZTn9SvotFUykPEiynAziY\nEd7Yb3pRKUI1LO1pDvW3pt8EsYSVKjLIiY+QoQQNXcw0aAbRk/uzZvOLGANV6fcj\npHT9gZZPb5mN0Y6ty4kykJ5dkY9LCJjT3T/i2eIMFOa8E2sYo2bF83AKMk5PUQ0O\nocBqPg86RHsiJcLuvME4ctlA4hYN0ZoCoUQJjk+F/cFPQ25T7AP3JoIvvDY0/3yt\n5Y/FvcxBUByFihyWN8XiiPG6KnvXcbcMfDh7/qcWyQKBgQDynL2w+WblNo9ClNeS\nNghLPHLgylwIi6VLFeQWLfnKxipFSSmd8JPwkoMobVjpaVHrdPXcs0oHk7IW0OMC\nHmqx8RO13HkBrd9KMYZvo/pemJpAIW9c5huH8wQDpCBqx/OGDwAt9qlrel1aeQoY\nUUh7voi1GEI7HVvRwy0ZKlNAGQKBgQDVNjQ70oWFvTBFU2fMCVrW6kGw2Ev3o3qe\n1S8cOufnhqg+o3dRxz7TaPZ65LSXJ+mc04pVAq9dNn+NuI8FZ77/3Y9ZdHvWA1PJ\nC85WVcHexEYgbANRkvrK9JwGaLx0Ptbdvrxf7vhH++5genEJYt9Q4DRa3ge7cSAo\nz0LNlv7tRwKBgEzK4CAMUU1sH5xrkHBvOeDWmWYdp1PtH7zMiQ2cL9zHLMoRhmK/\nq5QSTAGX2vTGqW9l7gyVk3EihtRB+hjJl+wK6ro9tu+ZIXxSgMMFnFIk624xJxa4\nny5A9ZxRbxFdiO9+AAiMcsPaT4I7nb5kvBSvEoZ/zzb27AFRTg0RIJjBAoGBAJ31\n/JjdjYLZ+WtDMcFepOhYwbZtaUrc2TnXo4F8utczUm6l2P7DaO5j80h1LL5YGaHQ\nr8nvpVCf0byDoaJVjJIv6cZSoHScHnTyxDn+axXJwFLA82x6QkgfFYFCE2zkKXg7\nmYBRoaxjH+ZmkFxt3hkjIma33G6ojzTs6Qc7+T59AoGBAOvBGk6sqSehftX+pPIc\nlr3r8sbAX1u9DdazElAC23Y2kSPqn3oowgsiCMipep73u0b8HDEwfnGaJoVvfBlB\nRph0Al6UGznIpKp+GbxO0yz2oCU+SJOwj7aCo4CvFBDovWdiC1fwJn504Vv5agVs\nTGDUuzymMuOFSgeB7AQlGXFt\n-----END PRIVATE KEY-----\n",
+  "client_email": "datatarsier-serviceaccount@datatarsier.iam.gserviceaccount.com",
+  "client_id": "111457346144886479614",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datatarsier-serviceaccount%40datatarsier.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
